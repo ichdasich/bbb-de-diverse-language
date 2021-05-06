@@ -81,7 +81,7 @@
     "app.userList.menu.removeUser.label": "Teilnehmende entfernen",
     "app.userList.menu.removeConfirmation.label": "Teilnehmende entfernen ({0})",
     "app.userlist.menu.removeConfirmation.desc": "Teilnehmende sperren, sodass eine erneute Teilnahme an dieser Konferenz nicht mehr möglich ist.",
-    "app.userList.menu.muteUserAudio.label": "Teilnehmende stummschalten",
+    "app.userList.menu.muteUserAudio.label": "Person stummschalten",
     "app.userList.menu.unmuteUserAudio.label": "Stummschaltung aufheben",
     "app.userList.menu.giveWhiteboardAccess.label" : "Zugriff auf Whiteboard erlauben",
     "app.userList.menu.removeWhiteboardAccess.label": "Zugriff auf Whiteboard aufheben",
