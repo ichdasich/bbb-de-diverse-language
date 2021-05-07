@@ -15,7 +15,7 @@ def load_json(fn='./de.json', t='NONE'):
 		sys.exit(1)
 
 if not len(sys.argv) == 4:
-	print('Usage: ./'+sys.argv[0]+' [changes_file] [input_file] [output_file]')
+	print('Usage: '+sys.argv[0]+' [changes_file] [input_file] [output_file]')
 	sys.exit(1)
 
 update_json = load_json(sys.argv[1], 'changes_file')
