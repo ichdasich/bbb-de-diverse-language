@@ -18,6 +18,17 @@ chmod +x ./update_json.py
 cat ./de_new.json > /usr/share/meteor/bundle/programs/web.browser/app/locales/de.json
 ```
 
+You can also put code similar to this in your apply-config.sh to apply these changes on every BBB upgrade:
+
+```
+echo "- Updating German translation"
+cp /usr/share/meteor/bundle/programs/web.browser/app/locales/de.json /etc/bigbluebutton/bbb-conf/de.json
+rm -f /etc/bigbluebutton/bbb-conf/de_changed.json
+/opt/bbb-tools/update_json.py /etc/bigbluebutton/bbb-conf/de_changes.json /etc/bigbluebutton/bbb-conf/de.json /etc/bigbluebutton/bbb-conf/de_changed.json
+cat /etc/bigbluebutton/bbb-conf/de_changed.json > /usr/share/meteor/bundle/programs/web.browser/app/locales/de.json
+
+```
+
 A restart of BBB is not necessary for the change to take effect, but the change 
 will have to be reapplied upon updates until https://github.com/bigbluebutton/bigbluebutton/issues/12294 
 has been resolved.
