@@ -98,5 +98,5 @@
     "app.guest.noModeratorResponse": "Keine Antwort von der Moderation.",
     "app.guest.guestWait": "Bitte warten Sie, bis die Moderation Ihre Teilnahme an der Konferenz freigibt.",
     "app.guest.guestDeny": "Der Moderation hat die Teilnahme an der Konferenz abgelehnt.",
-    "app.layout.style.custom": "Flexibles Layout",
+    "app.layout.style.custom": "Flexibles Layout"
 }
