@@ -97,5 +97,6 @@
     "app.learningDashboard.usersTable.noUsers": "Bisher keine Teilnehmenden",
     "app.guest.noModeratorResponse": "Keine Antwort von der Moderation.",
     "app.guest.guestWait": "Bitte warten Sie, bis die Moderation Ihre Teilnahme an der Konferenz freigibt.",
-    "app.guest.guestDeny": "Der Moderation hat die Teilnahme an der Konferenz abgelehnt."
+    "app.guest.guestDeny": "Der Moderation hat die Teilnahme an der Konferenz abgelehnt.",
+    "app.layout.style.custom": "Flexibles Layout",
 }
