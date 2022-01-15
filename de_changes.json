@@ -104,6 +104,5 @@
     "app.learning-dashboard.description": "Übersichtsseite mit Teilnehmendenaktivitäten öffnen",
     "app.videoDock.webcamUnpinLabelDisabled": "Nur Moderation kann angeheftete Webcam lösen.",
     "app.userList.menu.webcamPin.label": "Diese Webcam anheften",
-    "app.userList.menu.webcamUnpin.label": "Diese Webcam lösen",
-
+    "app.userList.menu.webcamUnpin.label": "Diese Webcam lösen"
 }
