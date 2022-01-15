@@ -98,5 +98,12 @@
     "app.guest.noModeratorResponse": "Keine Antwort von der Moderation.",
     "app.guest.guestWait": "Bitte warten Sie, bis die Moderation Ihre Teilnahme an der Konferenz freigibt.",
     "app.guest.guestDeny": "Der Moderation hat die Teilnahme an der Konferenz abgelehnt.",
-    "app.layout.style.custom": "Flexibles Layout"
+    "app.layout.style.custom": "Flexibles Layout",
+    "app.layout.style.customPush": "Flexibles Layout (Layout an alle verteilen)",
+    "app.guest.allow": "Person zugelassen und zur Konferenz weitergeleitet.",
+    "app.learning-dashboard.description": "Übersichtsseite mit Teilnehmendenaktivitäten öffnen",
+    "app.videoDock.webcamUnpinLabelDisabled": "Nur Moderation kann angeheftete Webcam lösen.",
+    "app.userList.menu.webcamPin.label": "Diese Webcam anheften",
+    "app.userList.menu.webcamUnpin.label": "Diese Webcam lösen",
+
 }
